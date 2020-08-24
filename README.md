@@ -1,9 +1,10 @@
 # FLL-2020
 ## Discord(?)
 Zach
-## EV3 Micropython
+## Extensions
+### EV3 Micropython
 Zach
-## LiveShare
+### LiveShare
 Alex
 ## Github Desktop
 Alex
