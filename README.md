@@ -1,2 +1,9 @@
 # FLL-2020
-Wwwwwwooooooooorrrrrrrrrddddddddsssssssss.
+## Discord(?)
+Zach
+## EV3 Micropython
+Zach
+## LiveShare
+Alex
+## Github Desktop
+Alex
