@@ -11,10 +11,10 @@ Online
 
 App
 1. Follow [this link](https://discord.com/download) to download Discord on your device. 
-2. This should give you a file called DiscordSetup.exe. Click it and press run.
+2. This should give you a file called DiscordSetup.exe. Click "Save File" and press "Run".
 3. Follow all other prompts, and then go to step 4.  
 
-> The two instructions merge here
+> The two instruction guides merge here
 
 4. Create an account, and fill out all of the prompts. (If you're under 13, put in a birthdate above 13)
 5. Follow this invite link to the Discord!
