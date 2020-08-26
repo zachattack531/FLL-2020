@@ -27,10 +27,8 @@ By Zach
 1. In order to acess the library, you must first download Visual Studio Code. Download it [here](https://code.visualstudio.com/). If you're not on Windows, click on choose your platform, and find what you're using.
 2. Click on "save file" on Windows and click "run".
 3. Follow all prompts, and then you should have Visual Studio Code downloaded!
-4. Open it and now we're ready to install the extension that allows you to connect to the EV3 brick. Find the file and click on the four squares.
-5. There's a search bar that can find extensions. Type in "ev3-dev". Click on the first result (*Not* the second one, as that's discontinued).
-6. Click install, and you should now be able to run python code (like the stuff in the repo) on your EV3 brick.
-
+4. Open it and now we're ready to install the extension that allows you to connect to the EV3 brick. Go to [this link](https://marketplace.visualstudio.com/items?itemName=lego-education.ev3-micropython), and click install. Click "Don't show this window" on the "This extension requires Visual Studio Code", then click on "open link".
+5. Now you should be directed to an install page for the software. Click on install. Now you should have EV3 python all set up on you computer!
 ## LiveShare
 By Alex
 ## Github Desktop(?)
