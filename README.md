@@ -19,8 +19,8 @@ App
 4. Create an account, and fill out all of the prompts. (If you're under 13, put in a birthdate above 13)
 5. Follow this invite link to the Discord!
 
-# Extensions
-## EV3 Micropython
+## Extensions
+#### EV3 Micropython
 
 By Zach
 
@@ -29,7 +29,7 @@ By Zach
 3. Follow all prompts, and then you should have Visual Studio Code downloaded!
 4. Open it and now we're ready to install the extension that allows you to connect to the EV3 brick. Go to [this link](https://marketplace.visualstudio.com/items?itemName=lego-education.ev3-micropython), and click install. Click "Don't show this window" on the "This extension requires Visual Studio Code", then click on "open link".
 5. Now you should be directed to an install page for the software. Click on install. Now you should have EV3 python all set up on you computer!
-## LiveShare
+#### LiveShare
 By Alex
 
 1. If you haven't already downloaded Visual Studio Code, you should do [that](https://code.visualstudio.com/) now.
