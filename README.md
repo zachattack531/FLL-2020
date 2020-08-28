@@ -40,3 +40,7 @@ By Alex
 By Alex
 
 1. If you already have a github account, you can skip to step 2. Otherwise, you need to create a github account. Begin by going to [Github.com](https://github.com), and clicking "Sign Up". Fill out the necessary fields, and you should be good to go.
+2. Now, type "FLL-2020" into the searchbar. On the second page of results, near the bottom, you should find "holyokecodes/FLL-2020". Follow that link.
+3. Once you get there, press the green button that says "Code", and press the clipboard next to the URL to copy it.
+4. Now, go to Visual Studio Code and click the button with 3 circles, and press "Clone From Github". Visual Studio Code will ask you to sign in, you should allow that, and authorize it from github.
+5. Search for ""
