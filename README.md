@@ -36,5 +36,7 @@ By Alex
 2. Click on the extensions button (it has 4 squares), and type "Live Share" into the search bar.
 3. Find "Microsoft Visual Studio Live Share", and click install.
 
-## Github Desktop(?)
+## Cloning the Repository
 By Alex
+
+1. If you already have a github account, you can skip to step 2. Otherwise, you need to create a github account. Begin by going to [Github.com](https://github.com), and clicking "Sign Up". Fill out the necessary fields, and you should be good to go.
