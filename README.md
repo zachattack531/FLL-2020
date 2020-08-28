@@ -39,8 +39,8 @@ By Alex
 ## Cloning the Repository
 By Alex
 
-1. If you already have a github account, you can skip to step 2. Otherwise, you need to create a github account. Begin by going to [Github.com](https://github.com), and clicking "Sign Up". Fill out the necessary fields, and you should be good to go.
-2. Now, type "FLL-2020" into the searchbar. On the second page of results, near the bottom, you should find "holyokecodes/FLL-2020". Follow that link.
-3. Once you get there, press the green button that says "Code", and press the clipboard next to the URL to copy it.
-4. Now, go to Visual Studio Code and click the button with 3 circles, and press "Clone From Github". Visual Studio Code will ask you to sign in, you should allow that, and authorize it from github.
-5. Search for ""
+1. If you already have a github account, you can skip to step 2. Otherwise, you need to create a github account. Begin by going to [Github.com](https://github.com), and clicking "Sign Up". Fill out the necessary fields, and give Andrew your username so that he can invite you to edit the repository.
+2. Download "Github Desktop". You can do this by going to [Desktop.Github.com](https://desktop.github.com/), and clicking download.
+3. Open git hub desktop, and sign in.
+4. Click the button at the top right, and click add. Select "Clone Repository"
+5. In "Filter My Repositories", type "FLL-2020". and select "holyokecodes/FLL-2020", and click "Choose" to select where github will put the repository. When you are done click "Clone".
