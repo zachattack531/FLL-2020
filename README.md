@@ -33,7 +33,7 @@ By Zach
 By Alex
 
 1. If you haven't already downloaded Visual Studio Code, you should do [that](https://code.visualstudio.com/) now.
-2. Click on the extensions button (it has 4 squares), and type "Live Share" into the search bar.
+2. Click on the extensions button on the left (it has 4 squares), and type "Live Share" into the search bar.
 3. Find "Microsoft Visual Studio Live Share", and click install.
 
 ## Cloning the Repository
