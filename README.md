@@ -28,8 +28,12 @@ By Zach
 2. Click on "save file" on Windows and click "run".
 3. Follow all prompts, and then you should have Visual Studio Code downloaded!
 4. Open it and now we're ready to install the extension that allows you to connect to the EV3 brick. Go to [this link](https://marketplace.visualstudio.com/items?itemName=lego-education.ev3-micropython), and click install. Click "Don't show this window" on the "This extension requires Visual Studio Code", then click on "open link".
-5. Now you should be directed to an install page for the software. Click on install. Now you should have EV3 python all set up on you computer!
+5. Now you should be directed to an install page for the software. Click on install. Now you should have EV3 python all set up on your computer!
+6. Just to make sure it works, go to the EV3 Symbol. Click on "explore example projects". Find "Basic Movement" and click on it.
+7. Go find a folder for the new file you're making. Click on the 3rd item on the sidebar (the play button with the bug). Now find your robot name in "EV3DEV DEVICE BROWSER" and click on it.
+8. Make sure your robot's on a floor/table where it won't bump into anything within 3 feet. Go to the upper right corner where it says download and run and click on it. If your robot's moving, congratulations! EV3 Micropython is now on your computer!
 #### LiveShare
+
 By Alex
 
 1. If you haven't already downloaded Visual Studio Code, you should do [that](https://code.visualstudio.com/) now.
