@@ -42,5 +42,5 @@ By Alex
 1. If you already have a github account, you can skip to step 2. Otherwise, you need to create a github account. Begin by going to [Github.com](https://github.com), and clicking "Sign Up". Fill out the necessary fields, and give Andrew your username so that he can invite you to edit the repository.
 2. Now you need to download "Github Desktop". You can do this by going to [desktop.github.com](https://desktop.github.com/), and clicking download.
 3. Open Github Desktop, and sign in.
-4. Click the button at the top right, and click add. Select "Clone Repository"
+4. Click the button at the top left that says "Current Repository", and click add. Select "Clone Repository"
 5. In "Filter Your Repositories", type "FLL-2020". and select "holyokecodes/FLL-2020", and click "Choose..." to select where github will put the repository. When you are done click "Clone".
