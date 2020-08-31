@@ -1,6 +1,6 @@
 # FLL-2020
 
-![A banner image with the Holyoke Codes logo and name](images/holyokecodes-banner.jpg "Holyoke Codes Banner")
+![A banner image with the Holyoke Codes logo and name](holyokecodes-banner.jpg "Holyoke Codes Banner")
 
 https://github.com/zachattack531/FLL-2020
 
